@@ -17,6 +17,7 @@
 		F8F9B05E2264FE6600B2DBF1 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */; };
 		F8F9B05F2264FE6600B2DBF1 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */; };
 		F8F9B0602264FE6600B2DBF1 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */; };
+		F8F9B0622265142300B2DBF1 /* CustomerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F8F9B04F2264D79A00B2DBF1 /* ProgramCIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgramCIUITests.swift; sourceTree = "<group>"; };
 		F8F9B0512264D79A00B2DBF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
+		F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				F8F9B02F2264D79700B2DBF1 /* AppDelegate.swift */,
 				F8F9B0312264D79700B2DBF1 /* ViewController.swift */,
 				F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */,
+				F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */,
 				F8F9B0332264D79700B2DBF1 /* Main.storyboard */,
 				F8F9B0362264D79A00B2DBF1 /* Assets.xcassets */,
 				F8F9B0382264D79A00B2DBF1 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				F8F9B0322264D79700B2DBF1 /* ViewController.swift in Sources */,
 				F8F9B05E2264FE6600B2DBF1 /* UserInfo.swift in Sources */,
 				F8F9B0302264D79700B2DBF1 /* AppDelegate.swift in Sources */,
+				F8F9B0622265142300B2DBF1 /* CustomerInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
