@@ -18,6 +18,10 @@
 		F8F9B05F2264FE6600B2DBF1 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */; };
 		F8F9B0602264FE6600B2DBF1 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */; };
 		F8F9B0622265142300B2DBF1 /* CustomerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */; };
+		F8F9B06822651F3900B2DBF1 /* Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B06722651F3900B2DBF1 /* Greeting.swift */; };
+		F8F9B06922651F3900B2DBF1 /* Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B06722651F3900B2DBF1 /* Greeting.swift */; };
+		F8F9B06A22651F3900B2DBF1 /* Greeting.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B06722651F3900B2DBF1 /* Greeting.swift */; };
+		F8F9B06C226520EC00B2DBF1 /* GreetingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9B06B226520EC00B2DBF1 /* GreetingTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +57,8 @@
 		F8F9B0512264D79A00B2DBF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
 		F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerInfo.swift; sourceTree = "<group>"; };
+		F8F9B06722651F3900B2DBF1 /* Greeting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Greeting.swift; sourceTree = "<group>"; };
+		F8F9B06B226520EC00B2DBF1 /* GreetingTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +113,7 @@
 				F8F9B0312264D79700B2DBF1 /* ViewController.swift */,
 				F8F9B05D2264FE6600B2DBF1 /* UserInfo.swift */,
 				F8F9B0612265142300B2DBF1 /* CustomerInfo.swift */,
+				F8F9B06722651F3900B2DBF1 /* Greeting.swift */,
 				F8F9B0332264D79700B2DBF1 /* Main.storyboard */,
 				F8F9B0362264D79A00B2DBF1 /* Assets.xcassets */,
 				F8F9B0382264D79A00B2DBF1 /* LaunchScreen.storyboard */,
@@ -119,6 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				F8F9B0442264D79A00B2DBF1 /* ProgramCITests.swift */,
+				F8F9B06B226520EC00B2DBF1 /* GreetingTest.swift */,
 				F8F9B0462264D79A00B2DBF1 /* Info.plist */,
 			);
 			path = ProgramCITests;
@@ -264,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8F9B06822651F3900B2DBF1 /* Greeting.swift in Sources */,
 				F8F9B0322264D79700B2DBF1 /* ViewController.swift in Sources */,
 				F8F9B05E2264FE6600B2DBF1 /* UserInfo.swift in Sources */,
 				F8F9B0302264D79700B2DBF1 /* AppDelegate.swift in Sources */,
@@ -277,6 +286,8 @@
 			files = (
 				F8F9B05F2264FE6600B2DBF1 /* UserInfo.swift in Sources */,
 				F8F9B0452264D79A00B2DBF1 /* ProgramCITests.swift in Sources */,
+				F8F9B06C226520EC00B2DBF1 /* GreetingTest.swift in Sources */,
+				F8F9B06922651F3900B2DBF1 /* Greeting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +297,7 @@
 			files = (
 				F8F9B0602264FE6600B2DBF1 /* UserInfo.swift in Sources */,
 				F8F9B0502264D79A00B2DBF1 /* ProgramCIUITests.swift in Sources */,
+				F8F9B06A22651F3900B2DBF1 /* Greeting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
